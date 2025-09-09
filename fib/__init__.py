@@ -1,0 +1,1 @@
+from .fibonachi import fib_num
